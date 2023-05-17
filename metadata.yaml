@@ -1,0 +1,31 @@
+_repo: Wie-es-Licht-geworden-b-Roman_70560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suttner, Marie Louise von
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '55797'
+    url: http://www.gutenberg.org/2009/agents/55797
+    wikipedia: https://de.wikipedia.org/wiki/Marie_von_Suttner
+description: ''
+gutenberg_issued: '2023-04-15'
+identifiers:
+  gutenberg: '70560'
+language: de
+pgterms:marc904: https://catalog.hathitrust.org/Record/100326733
+pgterms:marc905: 20210314064012suttner
+pgterms:marc906: '1898'
+pgterms:marc907: DE
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aGermany :$bG. Pierson''s Verlag, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction -- 19th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Wie es Licht geworden! : $b Roman'
+url: http://www.gutenberg.org/ebooks/70560
